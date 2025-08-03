@@ -1,4 +1,4 @@
-package CErr
+package cerr
 
 import (
 	"errors"
