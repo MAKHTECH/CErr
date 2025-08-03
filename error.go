@@ -2,9 +2,7 @@ package CErr
 
 import (
 	"errors"
-	"github.com/lib/pq"
 	"google.golang.org/grpc/codes"
-	"log/slog"
 )
 
 // CErr представляет кастомную ошибку с gRPC-кодом и сообщением.
